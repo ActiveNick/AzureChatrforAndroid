@@ -1,7 +1,7 @@
 AzureChatr for Android
 ======================
 
-Android Client for a Cloud-based Cross-Platform Chat App
+Android Client for a Cloud-based Cross-Platform Chat App for smartphones and tablets. Written in Java as a native app using Eclipse.
 
 WELCOME TO AZURECHATR!
 ----------------------
@@ -18,11 +18,10 @@ soon be available on Windows 8.1, iOS and Android.
 
 Visit www.AgeofMobility.com for more info on the current and upcoming features.
 
-
 BEFORE YOU RUN THE APP FOR THE FIRST TIME
 -----------------------------------------
 If you try to run the app as soon as you open it in Eclipse or Android Studio,
-you will notice a popup dialog warning you about missing Cloud services.
+you will notice that the app will fail due to missing Cloud services.
 You must create your own Azure account and configure the following Azure 
 services to implement your own working version of AzureChatr:
 
