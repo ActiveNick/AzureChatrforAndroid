@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">AzureChatr for Android</string>
+    <string name="add_textbox_hint">you can chat here</string>
+    <string name="add_button_text">Send</string>
+    <string name="mobile_services">Powered by Microsoft Azure</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="textchatitem_text">Item Text</string>
+    
+</resources>
